@@ -1,5 +1,5 @@
 {
-  "name": "Herman-Chanel",
+  "name": "CHIRAG-Youtuber",
   "version": "1.2.3",
   "description": "WhatsApp Using Lib Baileys Multi Device",
   "main": "index.js",
@@ -16,7 +16,7 @@
     "baileys-md",
     "bot"
   ],
-  "author": "Herman.",
+  "author": "CHIRAG YOUTUBER.",
   "license": "MIT",
   "dependencies": {
     "@adiwajshing/baileys": "^4.0.0",

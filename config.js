@@ -17,7 +17,7 @@ global.owner = ['919536476115', '919536476115', '919536476115', '919536476115']
 global.packname = 'ＫＩＮＧ　Ｂ♢ＴＺ　🥵'
 global.author = '\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n'
 global.sessionName = 'ＫＩＮＧ　Ｂ♢ＴＺ　🥵'
-global.prefa = ['','!','.','🐦','🐤','🗿']
+global.prefa = ['','!','.','#','/','&']
 global.sp = '⭔'
 global.mess = {
     success: '✓ Success',

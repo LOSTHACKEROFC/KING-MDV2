@@ -19,7 +19,7 @@ Trace:
 
 npm manifest: 
   {
-    "name": "Herman-Chanel",
+    "name": "CHIRAG-YOUTUBER",
     "version": "1.2.3",
     "description": "WhatsApp Using Lib Baileys Multi Device",
     "main": "index.js",
@@ -36,7 +36,7 @@ npm manifest:
       "baileys-md",
       "bot"
     ],
-    "author": "Herman.",
+    "author": "chirag-youtuber.",
     "license": "MIT",
     "dependencies": {
       "@adiwajshing/baileys": "^4.0.0",

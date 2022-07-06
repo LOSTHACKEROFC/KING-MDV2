@@ -9,16 +9,16 @@
 <div align="center">
 <img src="images.jpeg" alt="CHIRAG YOUTUBER" width="170" />
 
-# Bosco Bot
+# KING-MD V2 🤡
 
-> Bosco Bot is a multipurpose WhatsApp bot using Adiwajshing-Baileys library!
+> KING-MDV2 Bot is a multipurpose WhatsApp bot using Adiwajshing-Baileys library!
 >
 >
 
   ### Simple Method
   
  
-[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@pepesir/PEPE-SIR-Qr-code?v=1) 
+[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@LOSTHACKEROFC/KING-MDV2?v=1) 
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com) 
 <p align="center">
